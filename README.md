@@ -15,7 +15,7 @@ Teknolojiler
 
 Kurulum & Çalıştırma
 1) Projeyi klonlayın:
-git clone https://github.com/kullaniciadi/sales-analysis-api.git
+git clone https://github.com/gamzekarakurt8/sales-analysis-api,
 cd sales-analysis-api
 
 2) MySQL veritabanı oluşturun:

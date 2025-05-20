@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\sati\u015Fanaliz\\salesanalysis\\salesanalysis\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|solutionrelative:salesanalysis\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\sati\u015Fanaliz\\salesanalysis\\salesanalysis\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|solutionrelative:salesanalysis\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\sati\u015Fanaliz\\salesanalysis\\salesanalysis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|solutionrelative:salesanalysis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\sati\u015Fanaliz\\salesanalysis\\salesanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|solutionrelative:salesanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\sati\u015Fanaliz\\salesanalysis\\salesanalysis\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03E02C-02B9-4950-BA3D-2216745AD2C6}|SalesAnalysis\\SalesAnalysis.csproj|solutionrelative:salesanalysis\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "SalesAnalysis\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "SalesAnalysis\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:55:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\Program.cs",
+              "RelativeDocumentMoniker": "SalesAnalysis\\Program.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\Program.cs",
+              "RelativeToolTip": "SalesAnalysis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:16:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesAnalysis\\appsettings.json",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\appsettings.json",
+              "RelativeToolTip": "SalesAnalysis\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T11:15:13.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\models\\Sale.cs",
+              "RelativeDocumentMoniker": "SalesAnalysis\\models\\Sale.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\models\\Sale.cs",
+              "RelativeToolTip": "SalesAnalysis\\models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:11:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SalesAnalysis\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\sati\u015Fanaliz\\SalesAnalysis\\SalesAnalysis\\data\\AppDbContext.cs",
+              "RelativeToolTip": "SalesAnalysis\\data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:13:36.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
